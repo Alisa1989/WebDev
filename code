@@ -1,0 +1,27 @@
+[!DOCTYPE]
+
+<html>
+<head><title>Website of Alexandre</title></head>
+
+<body>
+<!— <img src=“websitefirstimage.jpg”/> —>
+<hr />
+<h1>Making things is the best!</h1>
+<p align= “center”>I am really happy you found your way here, this is my first website made using html<strong>, CSS<strong>, and JavaScript<strong>! Enjoy your stay.</p>
+<p>This is a <br /> </p>
+<hr />
+<h5><span>Langauges I had the pleasure of working with</span></h5>
+<ul>
+<li>C++</li>
+<li>Java</li>
+<li>Python</li>
+<li>html</li>
+<li>CSS</li>
+<li>JavaScript</li>
+</ul>
+
+<h6>You can also find me on GitHub</h6>
+<a href=“githublink” target= “_blank”>My GitHub </a>
+
+</body>
+</html> 
